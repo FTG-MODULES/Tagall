@@ -11,7 +11,7 @@
 ➖➖➖➖➖➖➖➖➖➖
 
 🔗**Установка:**
-`.dlmod https://raw.githubusercontent.com/GeekTG/FTG-Modules/main/tags.py`
+`.dlmod https://raw.githubusercontent.com/FTG-MODULES/Tagall/main/Tags.py`
 
 ➖➖➖➖➖➖➖➖➖➖
 
